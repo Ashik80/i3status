@@ -72,7 +72,7 @@ cpu_usage {
 }
 
 cpu_temperature 0 {
-	format = "🌡️%degrees°C"
+	format = "🌡️ %degrees°C"
 }
 
 disk "/" {
